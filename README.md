@@ -49,8 +49,7 @@ The **Patient Health Dashboard for Prior Authorization** is a full-stack web app
 - After logging in, a JWT is issued, which is then used to access protected routes and perform operations like submitting prior authorization requests.
 
 ## **Deployment**
-- You can deploy the frontend of this project using **Vercel** or **Netlify** for easy deployment and live access.
-- Make sure to configure the environment variables and point the frontend to the live backend API.
+- https://healthdashboard-seven.vercel.app/
 
 ## **License**
 This project is licensed under the MIT License.
