@@ -44,12 +44,18 @@ The **Patient Health Dashboard for Prior Authorization** is a full-stack web app
    - **Method**: `POST`
    - **Description**: Submits a new prior authorization request for a patient.
 
-## **Authentication**
-- The app uses **JWT (JSON Web Tokens)** for authentication.
-- After logging in, a JWT is issued, which is then used to access protected routes and perform operations like submitting prior authorization requests.
+## **Live Demo**
+You can access the live version of the application here:  
+[https://healthdashboard-seven.vercel.app/](https://healthdashboard-seven.vercel.app/)
 
-## **Deployment**
-- https://healthdashboard-seven.vercel.app/
+### **Test Credentials**
+- **Email**: `ath@gmail.com`
+- **Password**: `ath`
+
+## **GitHub Repository**
+The source code for this project can be found on GitHub:  
+[https://github.com/athulaz/patient-health-dashboard](https://github.com/athulaz/patient-health-dashboard)
+
 
 ## **License**
 This project is licensed under the MIT License.
